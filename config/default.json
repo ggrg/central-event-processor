@@ -14,6 +14,8 @@
   "mongo": {
     "uri": "localhost:27017",
     "database": "mojaloop",
+    "user": "user",
+    "pass": "pass",
     "ruleCollection": "Rule",
     "netDebitCapPositionCollection": "NDCPosition",
     "actionCollection": "Actions",
